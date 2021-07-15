@@ -1,0 +1,1 @@
+web: gunicorn django-app-my-blog.wsgi
